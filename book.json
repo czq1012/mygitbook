@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    "github-buttons"
+  ],
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [{
+        "user": "azu",
+        "repo": "JavaScript-Plugin-Architecture",
+        "type": "star",
+        "size": "large"
+      }]
+    }
+  }
+}
